@@ -26,7 +26,7 @@ As of now, the top ten media outlets are hard coded in. This could be changed by
 
 The program does not filter out text related to the wesbite itself, i.e:information about the websites social media. I would like to ideally find a way to filter this out.
 
-### Improvements
+### Future Work
 
 I hope to create a text-based menu system in which certain parameters (such as dates) can be defined. I also hope to include the option to plot the data and include clustering algorithm visualizations.
 
